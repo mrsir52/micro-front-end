@@ -16,7 +16,7 @@ class App extends Component {
               group
               type="text"
             />
-            <Button color="danger">Submit</Button>
+            <Button color="success">Submit</Button>
           </FormInline>
         </div>
       </div>
